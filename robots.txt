@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /CSS/ 
+
+Sitemap: https://sayanmajumder1.github.io/Sayan_Majumder_Portfolio/sitemap.xml 
